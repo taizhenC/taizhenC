@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  Interested in AI/ML, full-stack development, and data-driven problem solving
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Hunter+College+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
