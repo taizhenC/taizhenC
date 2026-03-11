@@ -15,7 +15,6 @@
 ### About Me
 
 - Learning **full-stack development** and **ML**
-- Pursuing a double major in **Computer Science** and **Mathematics** at Hunter College, CUNY
 
 ---
 
