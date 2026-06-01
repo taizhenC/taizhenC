@@ -39,7 +39,7 @@ I am a **Hunter College student** and a passionate developer working at the inte
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,postgres,react,nodejs,express,vite,materialui,numpy,pandas,git,github,linux,latex&perline=9" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,postgres,nextjs,react,reactquery,nodejs,express,zustand,vite,materialui,numpy,pandas,supabase,git,github,linux,latex&perline=7" />
   </a>
 </p>
 
