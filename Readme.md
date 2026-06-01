@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./1780352753366.gif" width="350" />
+  <img src="./origin_3341818_2020375.gif" width="350" />
 </p>
 
 ---
