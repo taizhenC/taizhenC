@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./1780352753366.gif" width="350" />
+</p>
+
 ---
 
 ### About Me
