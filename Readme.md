@@ -29,8 +29,6 @@
 I am a **Hunter College student** and a passionate developer working at the intersection of **Full-Stack Development** and **Machine Learning**. I love building clean, scalable applications and exploring data-driven solutions.
 
 - 🔭 **I’m currently working on:** Full-stack web projects and training ML models.
-- 🌱 **I’m currently learning:** Advanced machine learning algorithms and system design.
-- 💬 **Ask me about:** C++, JavaScript, React, or Python!
 
 ---
 
