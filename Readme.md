@@ -31,7 +31,6 @@ I am a **Hunter College student** and a passionate developer working at the inte
 - 🔭 **I’m currently working on:** Full-stack web projects and training ML models.
 - 🌱 **I’m currently learning:** Advanced machine learning algorithms and system design.
 - 💬 **Ask me about:** C++, JavaScript, React, or Python!
-- ⚡ **Fun fact:** I love learning new things and solving complex problems.
 
 ---
 
