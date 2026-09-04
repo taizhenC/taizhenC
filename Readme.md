@@ -43,11 +43,37 @@ I'm a software engineer in New York City building **AI evaluation systems**, **r
 
 I care about evaluation that tells the truth, retrieval that can be inspected, and software that survives outside the demo.
 
-## `> INVENTORY`
+## Tech stack
 
 <p align="center">
+  <strong>Languages</strong>
+  <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,cpp,react,nextjs,fastapi,postgres,supabase,pytorch,docker,git,linux&amp;perline=6" alt="Python, TypeScript, C++, React, Next.js, FastAPI, PostgreSQL, Supabase, PyTorch, Docker, Git, and Linux" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,html,css&amp;perline=6" alt="Python, TypeScript, JavaScript, C++, HTML, and CSS" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Frontend</strong>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,materialui&amp;perline=4" alt="React, Next.js, Vite, and Material UI" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Backend &amp; data</strong>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,sqlite,supabase&amp;perline=6" alt="FastAPI, Node.js, Express, PostgreSQL, SQLite, and Supabase" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Machine learning &amp; tools</strong>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,docker,git,github,linux,latex,vercel&amp;perline=7" alt="PyTorch, Docker, Git, GitHub, Linux, LaTeX, and Vercel" />
   </a>
 </p>
 
