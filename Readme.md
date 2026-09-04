@@ -49,15 +49,6 @@ side_quest: Street Fighter 6 — Sagat main | Master rank
 
 I build with **Python** and **TypeScript**, usually where machine learning meets a product people can actually use. I care about evaluation that tells the truth, retrieval that can be inspected, and software that survives outside the demo.
 
-## `> QUEST_LOG`
-
-| Status | Quest | What it does | Loadout |
-| :---: | --- | --- | --- |
-| 🟢 **ACTIVE** | [**Onward**](https://onwardapp.me/) | AI companion with streamed stories and an evaluated retrieval pipeline | Next.js · TypeScript · Supabase · pgvector |
-| 🏆 **CLEARED** | [**When Directional Accuracy Lies**](https://arxiv.org/abs/2607.12248) · [code](https://github.com/taizhenC/when-directional-accuracy-lies) | Sole-author preprint on base-rate-honest evaluation for TimesFM/LoRA equity forecasts | Python · PyTorch · TimesFM · LoRA |
-| 🏆 **CLEARED** | [**resufill**](https://github.com/taizhenC/resufill) | Evidence-grounded résumé tailoring where every claim must trace back to source material | Python · FastAPI · TypeScript · React |
-| 🏆 **CLEARED** | [**xiaofinance**](https://github.com/taizhenC/xiaofinance) | Local-first Xiaohongshu investment-discussion dashboard with source-verified quotes | FastAPI · SQLite · Preact · MCP |
-
 ## `> INVENTORY`
 
 <p align="center">
