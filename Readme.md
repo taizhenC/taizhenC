@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👾 TAIZHEN.EXE
-
-### `PLAYER 1 READY // SOFTWARE ENGINEER`
+# Taizhen Cheung
 
 <p>
   <a href="https://taizhenc.github.io/">
@@ -35,19 +33,15 @@
 
 ---
 
-## `> PLAYER_PROFILE`
+## About me
 
-```yaml
-name: Taizhen Cheung
-location: New York City
-class: Software Engineer
-build: AI evaluation | retrieval systems | full-stack products
-education: Hunter College — Computer Science + Mathematics (May 2027)
-currently: building Onward and stress-testing RAG pipelines
-side_quest: Street Fighter 6 — Sagat main | Master rank
-```
+I'm a software engineer in New York City building **AI evaluation systems**, **retrieval pipelines**, and **full-stack products** with Python and TypeScript.
 
-I build with **Python** and **TypeScript**, usually where machine learning meets a product people can actually use. I care about evaluation that tells the truth, retrieval that can be inspected, and software that survives outside the demo.
+- 🎓 Computer Science and Mathematics at Hunter College — graduating May 2027
+- 🔭 Currently building Onward and stress-testing RAG pipelines
+- 🎮 Outside of code: Street Fighter 6, Sagat main, Master rank
+
+I care about evaluation that tells the truth, retrieval that can be inspected, and software that survives outside the demo.
 
 ## `> INVENTORY`
 
@@ -61,10 +55,6 @@ I build with **Python** and **TypeScript**, usually where machine learning meets
 
 <p align="center">
   <img src="./assets/debug-boss.png" width="800" alt="Pixel-art programmer facing a giant many-headed software bug" />
-</p>
-
-<p align="center">
-  <code>TECH DEBT appeared! Taizhen used TESTS. It was super effective.</code>
 </p>
 
 ## `> PLAYER_STATS`
