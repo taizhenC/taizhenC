@@ -1,55 +1,95 @@
-<h1 align="center">Hi, I'm Taizhen Cheung 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/taizhen-cheung-6a3852290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+# 👾 TAIZHEN.EXE
+
+### `PLAYER 1 READY // SOFTWARE ENGINEER`
+
+<p>
+  <a href="https://taizhenc.github.io/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00e436?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0f0f23" alt="Portfolio" />
   </a>
-  <a href="https://taizhenc.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/taizhen-cheung-6a3852290/">
+    <img src="https://img.shields.io/badge/LINKEDIN-3a86ff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tzhcheung@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-tzhcheung%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:tzhcheung@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-ff006e?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://arxiv.org/abs/2607.12248">
+    <img src="https://img.shields.io/badge/ARXIV-PAPER-ffbe0b?style=for-the-badge&amp;logo=arxiv&amp;logoColor=0f0f23" alt="arXiv paper" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Hunter+College+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=900&amp;color=00E436&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Building+reliable+AI+evaluation+systems;Labbing+retrieval+%26+RAG+pipelines;Shipping+full-stack+products;Turning+coffee+into+tests..." alt="Animated introduction" />
+</a>
 
-<p align="center">
-  <img src="./origin_3341818_2020375.gif" width="350" />
-</p>
+<br />
+
+<img src="./origin_3341818_2020375.gif" width="300" alt="Taizhen's original animated desk companion" />
+
+<br />
+
+<sub><code>You must defeat my tech debt to stand a chance!</code></sub>
+
+</div>
 
 ---
 
-### 👋 About Me
+## `> PLAYER_PROFILE`
 
-I am a **Hunter College student** and a passionate developer working at the intersection of **Full-Stack Development** and **Machine Learning**. I love building clean, scalable applications and exploring data-driven solutions.
+```yaml
+name: Taizhen Cheung
+location: New York City
+class: Software Engineer
+build: AI evaluation | retrieval systems | full-stack products
+education: Hunter College — Computer Science + Mathematics (May 2027)
+currently: building Onward and stress-testing RAG pipelines
+side_quest: Street Fighter 6 — Sagat main | Master rank
+```
 
-- 🔭 **I’m currently working on:** Full-stack web projects and training ML models.
+I build with **Python** and **TypeScript**, usually where machine learning meets a product people can actually use. I care about evaluation that tells the truth, retrieval that can be inspected, and software that survives outside the demo.
 
----
+## `> QUEST_LOG`
 
-### 🛠️ Tech Stack & Tools
+| Status | Quest | What it does | Loadout |
+| :---: | --- | --- | --- |
+| 🟢 **ACTIVE** | [**Onward**](https://onwardapp.me/) | AI companion with streamed stories and an evaluated retrieval pipeline | Next.js · TypeScript · Supabase · pgvector |
+| 🏆 **CLEARED** | [**When Directional Accuracy Lies**](https://arxiv.org/abs/2607.12248) · [code](https://github.com/taizhenC/when-directional-accuracy-lies) | Sole-author preprint on base-rate-honest evaluation for TimesFM/LoRA equity forecasts | Python · PyTorch · TimesFM · LoRA |
+| 🏆 **CLEARED** | [**resufill**](https://github.com/taizhenC/resufill) | Evidence-grounded résumé tailoring where every claim must trace back to source material | Python · FastAPI · TypeScript · React |
+| 🏆 **CLEARED** | [**xiaofinance**](https://github.com/taizhenC/xiaofinance) | Local-first Xiaohongshu investment-discussion dashboard with source-verified quotes | FastAPI · SQLite · Preact · MCP |
+
+## `> INVENTORY`
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,postgres,nextjs,react,nodejs,express,vite,materialui,supabase,git,github,linux,latex&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,ts,cpp,react,nextjs,fastapi,postgres,supabase,pytorch,docker,git,linux&amp;perline=6" alt="Python, TypeScript, C++, React, Next.js, FastAPI, PostgreSQL, Supabase, PyTorch, Docker, Git, and Linux" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
+## `> RANDOM_ENCOUNTER`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taizhenC&theme=tokyonight&hide_border=true" />
+  <img src="./assets/debug-boss.png" width="800" alt="Pixel-art programmer facing a giant many-headed software bug" />
+</p>
+
+<p align="center">
+  <code>TECH DEBT appeared! Taizhen used TESTS. It was super effective.</code>
+</p>
+
+## `> PLAYER_STATS`
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taizhenC&amp;theme=tokyonight" alt="Taizhen's GitHub contribution overview" />
+  <br />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=taizhenC&amp;theme=tokyonight&amp;hide_border=true" alt="Taizhen's GitHub contribution streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taizhenC&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://taizhenc.github.io/">
+    <img src="https://img.shields.io/badge/INSERT_COIN-visit_the_full_arcade-00e436?style=for-the-badge" alt="Visit Taizhen's portfolio" />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=taizhenC&amp;color=3a86ff&amp;style=flat-square&amp;label=PLAYERS+JOINED" alt="Profile views" />
 </p>
